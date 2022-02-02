@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MUI-Website/static/css/main.8e97002c.css",
-    "main.js": "/MUI-Website/static/js/main.030dc18d.js",
+    "main.js": "/MUI-Website/static/js/main.c8ed3619.js",
     "static/js/27.11a3be1a.chunk.js": "/MUI-Website/static/js/27.11a3be1a.chunk.js",
     "static/media/slick.svg": "/MUI-Website/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/MUI-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.8e97002c.css",
-    "static/js/main.030dc18d.js"
+    "static/js/main.c8ed3619.js"
   ]
 }
