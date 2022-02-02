@@ -8,10 +8,6 @@ A professional React Kit that comes with plenty of ready-to-use MUI components t
 - React
 - MUI
 - React Scripts
-- NextJS
-- GatsbyJS
-- Typescript
-- Figma & Sketch
 
 
 ## Quick start with React Scripts
