@@ -1,8 +1,7 @@
 import React from 'react';
 
 import {
-  Startup as StartupView,
-  NotFoundCover as NotFoundCoverView,
+  Startup as StartupView
 } from 'views';
 
 const routes = [
@@ -13,11 +12,7 @@ const routes = [
   {
     path: '/home',
     renderer: (params = {}) => <StartupView {...params} />,
-  },
-  {
-    path: '/not-found-cover',
-    renderer: (params = {}) => <NotFoundCoverView {...params} />,
-  },
+  }
 ];
 
 export default routes;
