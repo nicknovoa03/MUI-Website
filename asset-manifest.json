@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/MUI-Website/static/css/main.8e97002c.css",
-    "main.js": "/MUI-Website/static/js/main.d87b5fa2.js",
-    "static/js/27.55986ddc.chunk.js": "/MUI-Website/static/js/27.55986ddc.chunk.js",
-    "static/media/slick.svg": "/MUI-Website/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/MUI-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/MUI-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/MUI-Website/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/MUI-Website/index.html"
+    "main.js": "/MUI-Website/static/js/main.cc2daf27.chunk.js",
+    "runtime-main.js": "/MUI-Website/static/js/runtime-main.f2d5086d.js",
+    "static/css/2.9124dd47.chunk.css": "/MUI-Website/static/css/2.9124dd47.chunk.css",
+    "static/js/2.c8148962.chunk.js": "/MUI-Website/static/js/2.c8148962.chunk.js",
+    "static/js/3.b036304e.chunk.js": "/MUI-Website/static/js/3.b036304e.chunk.js",
+    "index.html": "/MUI-Website/index.html",
+    "static/js/2.c8148962.chunk.js.LICENSE.txt": "/MUI-Website/static/js/2.c8148962.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/MUI-Website/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/css/main.8e97002c.css",
-    "static/js/main.d87b5fa2.js"
+    "static/js/runtime-main.f2d5086d.js",
+    "static/css/2.9124dd47.chunk.css",
+    "static/js/2.c8148962.chunk.js",
+    "static/js/main.cc2daf27.chunk.js"
   ]
 }
