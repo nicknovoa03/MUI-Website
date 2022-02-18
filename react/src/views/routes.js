@@ -1,7 +1,8 @@
 import React from 'react';
 
 import {
-  Startup as StartupView
+  Startup as StartupView,
+  DesignCompany as DesignCompanyView
 } from 'views';
 
 const routes = [
@@ -11,7 +12,7 @@ const routes = [
   },
   {
     path: '/home',
-    renderer: (params = {}) => <StartupView {...params} />,
+    renderer: (params = {}) => <DesignCompanyView {...params} />,
   }
 ];
 
