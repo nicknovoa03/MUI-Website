@@ -7,11 +7,11 @@ import {
 
 const routes = [
   {
-    path: '/',
+    path: '/Startup',
     renderer: (params = {}) => <StartupView {...params} />,
   },
   {
-    path: '/home',
+    path: '/Design',
     renderer: (params = {}) => <DesignCompanyView {...params} />,
   }
 ];
